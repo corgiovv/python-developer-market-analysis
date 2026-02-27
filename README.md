@@ -61,7 +61,7 @@ The dataset includes information about:
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ---
 
