@@ -73,3 +73,9 @@ The dataset includes information about:
 3. Open the notebook:
    jupyter notebook notebooks/python_market_analysis.ipynb
 
+## Notebook
+
+Full analysis is available in the Jupyter Notebook:
+
+notebooks/python_market_analysis.ipynb
+
