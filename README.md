@@ -24,7 +24,19 @@ The dataset includes information about:
 
 ---
 
-## Project Structure
+## Dataset Access
+
+The original Stack Overflow Developer Survey dataset is not included in this repository due to file size limitations.
+
+To run the notebook locally, download the dataset from the official source and place the following files into the `data` directory:
+
+- survey_results_public.csv
+- survey_results_schema.csv
+
+The project structure expects the files to be located at:
+
+data/survey_results_public.csv
+data/survey_results_schema.csv
 
 ---
 
@@ -62,6 +74,14 @@ The dataset includes information about:
 - NumPy
 - Matplotlib
 - Google Colab
+
+---
+
+## Visualizations
+
+This project focuses on data exploration and statistical analysis using Pandas.
+
+No external visualisations or image outputs are included in the repository.
 
 ---
 
